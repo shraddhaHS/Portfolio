@@ -51,7 +51,8 @@ mediaQuery.removeEventListener('change',handleMediaQueryChange)
     }
   })
   return(
-    <Canvas
+    <Canvas 
+    className="overflow-y-visible"
     frameloop='demand'
     shadows
     camera={{position:[20,3,5], fov: 25}}

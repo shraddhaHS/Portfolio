@@ -116,57 +116,31 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "Web Developer Intern",
+      company_name: "Infomatix Web Technologies LLP ",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "Feb 2023 - Jul 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "	Spearheaded multiple projects from inception to delivery, covering wireframing to final implementation, utilizing frontend technologies like HTML, CSS, Bootstrap, JavaScript, and ReactJS for user interfaces.",
+   "Engineered reusable code components, reducing project costs, and enhancing overall efficiency.",
+"Designed and deployed user interfaces for hospital management systems, CRM web applications, and survey systems, optimizing user experiences and securing project approval and funding post-completion.",
+"	Created and integrated webpages for surveys and tracking systems, leading to a 30% improvement in data collection efficiency.	"
+
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "Web Developer Intern",
+      company_name: "Virtuoso Apps pvt.",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "Nov 2021 - Dec 2021",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Led UI design and wireframing processes, prioritizing user-centric approaches for website development.",
+        "Crafted captivating mockups for the website, integrating innovative design elements to elevate user experience.",
+        "Acquired proficiency in Adobe Photoshop and Illustrator, employing advanced graphic design techniques to produce visually striking designs.",
       ],
-    },
-    {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
+    }
   ];
   
   const testimonials = [
