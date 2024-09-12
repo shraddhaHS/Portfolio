@@ -16,7 +16,7 @@ import {
   virtuoso,
   studynotion,
   crowdaid,
-  tripguide,
+  space,
   threejs,
   java,
   cpp,
@@ -201,16 +201,16 @@ const projects = [
     source_code_link: "https://github.com/shraddhaHS/Crowdaid",
   },
   {
-    name: "Trip Guide",
+    name: "Parallax",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Explore the universe with this futuristic space tourism website I designed! Focused purely on frontend, I crafted a sleek, interactive UI featuring vibrant space imagery, dynamic animations, and intuitive navigation. The design captures the excitement of space travel while ensuring a smooth, engaging user experience across all devices.",
     tags: [
       {
-        name: "nextjs",
+        name: "html",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "bootstrap",
         color: "green-text-gradient",
       },
       {
@@ -218,8 +218,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: space,
+    source_code_link: "https://shraddhahs.github.io/space/",
   },
 ];
 

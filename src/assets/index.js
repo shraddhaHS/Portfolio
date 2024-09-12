@@ -29,7 +29,7 @@ import virtuoso from "./company/virtuoso.png";
 
 import studynotion from "./studynotion.png";
 import crowdaid from "./crowdaid.png";
-import tripguide from "./tripguide.png";
+import space from "./space.png";
 
 export {
   logo,
@@ -54,7 +54,7 @@ export {
   virtuoso,
   studynotion,
   crowdaid,
-  tripguide,
+  space,
   python,
   java,
   cpp,
