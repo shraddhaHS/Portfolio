@@ -74,7 +74,7 @@ const Social = () => {
           </li>
           <li class=" flex justify-between items-center w-40 h-14 px-4 mr-[-100px] black-gradient hover:translate-x-[-90px] hover:rounded-md duration-300  rounded-bl-md">
             <a
-              href="public\ShradhaResume.pdf"
+              href="\ShradhaResume.pdf"
               class="flex justify-between items-center w-full text-white"
               download     
             >
