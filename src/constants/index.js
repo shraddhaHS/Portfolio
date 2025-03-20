@@ -17,12 +17,11 @@ import {
   studynotion,
   crowdaid,
   space,
-  threejs,
   java,
   cpp,
-  solidity,
   postman,
-  python
+  python,
+  chatterbox
 
 } from "../assets";
 
@@ -150,6 +149,37 @@ const experiences = [
 
 const projects = [
   {
+    name: "ChatterBox",
+    description:
+      "ChatterBox is a real-time chat application designed for seamless messaging and interaction. Built with React, Node.js, and Socket.io, it provides an intuitive and modern user experience for instant communication.",
+    tags: [
+
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "express",
+        color: "orange-text-gradient"
+      },
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "node",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "socket.io",
+        color: "green-text-gradient",
+      },
+    ],
+    image: chatterbox,
+    source_code_link: "https://github.com/shraddhaHS/Chatterbox-Chat-App",
+  },
+  {
+    
     name: "StudyNotion",
     description:
       "StudyNotion is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack.",

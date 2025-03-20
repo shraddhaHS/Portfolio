@@ -30,6 +30,7 @@ import virtuoso from "./company/virtuoso.png";
 import studynotion from "./studynotion.png";
 import crowdaid from "./crowdaid.png";
 import space from "./space.png";
+import chatterbox from "./chatterbox.png"
 
 export {
   logo,
@@ -59,5 +60,6 @@ export {
   java,
   cpp,
   solidity,
-  postman
+  postman,
+  chatterbox
 };
