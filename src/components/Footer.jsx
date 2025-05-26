@@ -85,7 +85,7 @@ const Footer = () => {
             class=" flex justify-between items-center h-14 px-4  "
           >
             <a
-                href="\shradhaBhadoria_Resume.pdf"
+                href="/myResume.pdf"
               class="flex justify-between items-center w-full text-white"
               download=""
               target="_blank"
