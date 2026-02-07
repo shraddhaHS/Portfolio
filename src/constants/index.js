@@ -117,31 +117,77 @@ const technologies = [
 
 
 
+// const experiences = [
+//   {
+//     title: "Web Developer Intern",
+//     company_name: "Infomatix Web Technologies LLP ",
+//     icon: starbucks,
+//     iconBg: "#383E56",
+//     date: "Apr 2025 - Nov 2025",
+//     points: [
+//       // "	Spearheaded multiple projects from inception to delivery, covering wireframing to final implementation, utilizing frontend technologies like HTML, CSS, Bootstrap, JavaScript, and ReactJS for user interfaces.",
+//       // "Engineered reusable code components, reducing project costs, and enhancing overall efficiency.",
+//       // "Designed and deployed user interfaces for hospital management systems, CRM web applications, and survey systems, optimizing user experiences and securing project approval and funding post-completion.",
+//       // "Created and integrated webpages for surveys and tracking systems, leading to a 30% improvement in data collection efficiency.	",
+//       // "Integrated REST APIs into React modules using Axios for CRUD operations, handling async data flows and error states across multiple CRM and ERP features"
+//       "I worked on multiple production-level web applications, primarily CRM systems and a Hospital ERP, taking features from early UI planning to live deployment.",
+
+//       "I led the frontend development of 18+ CRM modules using React and Bootstrap, focusing on responsive layouts and performance across devices. This helped the team ship features faster and improve overall product stability.",
+
+//       "For a Hospital ERP system, I built 10 core modules such as doctor reports, patient profiles, appointment flows, QR-based registrations, and e-prescriptions. These tools reduced manual effort for admins and made everyday workflows smoother.",
+
+//       "I also developed reusable survey and tracking components with real-time validation and conditional logic for a case management system, which improved data quality and reduced submission errors.",
+
+//       "To keep the codebase maintainable, I modularized the frontend into reusable components and optimized assets, making it easier to scale features across projects.",
+
+//       "Across these systems, I integrated REST APIs using Axios, handling data fetching, error states, and UI updates for real-world CRUD workflows."
+//     ],
+//   },
+//   {
+//     title: "Web Developer Intern",
+//     company_name: "Virtuoso Apps pvt.",
+//     icon: virtuoso,
+//     iconBg: "#E6DEDD",
+//     date: "Nov 2024 - Feb 2025",
+//     points: [
+// "Worked on the frontend of a client-facing web platform built with React.js, developing and maintaining multiple screens used in day-to-day workflows.",
+
+// "Built and refactored reusable React components to standardize UI patterns across the application and improve long-term maintainability.",
+
+// "Implemented form-heavy interfaces with conditional rendering, validation, and dynamic state handling, supporting real user interactions and data updates.",
+
+// "Handled responsive layouts and incremental UI fixes, resolving styling and rendering issues to ensure consistent behavior across common screen sizes."
+//     ],
+//   }
+// ];
+
 const experiences = [
   {
     title: "Web Developer Intern",
-    company_name: "Infomatix Web Technologies LLP ",
+    company_name: "Infomatix Web Technologies LLP",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "Feb 2023 - Jul 2023",
+    date: "Apr 2025 - Nov 2025",
     points: [
-      "	Spearheaded multiple projects from inception to delivery, covering wireframing to final implementation, utilizing frontend technologies like HTML, CSS, Bootstrap, JavaScript, and ReactJS for user interfaces.",
-      "Engineered reusable code components, reducing project costs, and enhancing overall efficiency.",
-      "Designed and deployed user interfaces for hospital management systems, CRM web applications, and survey systems, optimizing user experiences and securing project approval and funding post-completion.",
-      "	Created and integrated webpages for surveys and tracking systems, leading to a 30% improvement in data collection efficiency.	"
-
+      "Worked on multiple production-level web applications, primarily CRM systems and a Hospital ERP, contributing from early UI planning to live deployment.",
+      "Led frontend development of 18+ CRM modules using React and Bootstrap, focusing on responsive layouts and performance across devices to support faster feature delivery and overall product stability.",
+      "Built 10 core Hospital ERP modules including doctor reports, patient profiles, appointment workflows, QR-based registrations, and e-prescriptions, streamlining administrative workflows and reducing manual effort.",
+      "Developed reusable survey and tracking components with real-time validation and conditional logic for a case management system, improving data accuracy and submission reliability.",
+      "Modularized the frontend into reusable components and optimized assets to improve maintainability and support scalable feature development across projects.",
+      "Integrated REST APIs using Axios, handling data fetching, error states, and UI updates for real-world CRUD workflows across CRM and ERP systems."
     ],
   },
   {
     title: "Web Developer Intern",
-    company_name: "Virtuoso Apps pvt.",
+    company_name: "Virtuoso Apps Pvt. Ltd.",
     icon: virtuoso,
     iconBg: "#E6DEDD",
-    date: "Nov 2021 - Dec 2021",
+    date: "Nov 2024 - Feb 2025",
     points: [
-      "Led UI design and wireframing processes, prioritizing user-centric approaches for website development.",
-      "Crafted captivating mockups for the website, integrating innovative design elements to elevate user experience.",
-      "Acquired proficiency in Adobe Photoshop and Illustrator, employing advanced graphic design techniques to produce visually striking designs.",
+      "Contributed to the frontend of a client-facing web platform built with React.js, developing and maintaining multiple screens used in day-to-day workflows.",
+      "Built and refactored reusable React components to standardize UI patterns and improve long-term maintainability of the codebase.",
+      "Implemented form-heavy interfaces with conditional rendering, validation, and dynamic state handling to support real user interactions and data updates.",
+      "Handled responsive layouts and incremental UI fixes, resolving styling and rendering issues to ensure consistent behavior across common screen sizes."
     ],
   }
 ];
