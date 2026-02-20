@@ -21,7 +21,11 @@ import solidity from './tech/solidity.png'
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.svg";
-import postman from "./tech/postman.png"
+import postman from "./tech/postman.png";
+import docker from "./tech/docker.png";
+import typescript from "./tech/typescript.png";
+import nextjs from "./tech/nextjs.png";
+
 
 
 import starbucks from "./company/starbucks.png";
@@ -31,6 +35,7 @@ import studynotion from "./studynotion.png";
 import crowdaid from "./crowdaid.png";
 import space from "./space.png";
 import chatterbox from "./chatterbox.png"
+
 
 export {
   logo,
@@ -61,5 +66,8 @@ export {
   cpp,
   solidity,
   postman,
-  chatterbox
+  chatterbox,
+  docker,
+  typescript,
+  nextjs
 };

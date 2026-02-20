@@ -12,6 +12,7 @@ import {
   nodejs,
   mongodb,
   figma,
+  nextjs,
   starbucks,
   virtuoso,
   studynotion,
@@ -21,7 +22,9 @@ import {
   cpp,
   postman,
   python,
-  chatterbox
+  chatterbox,
+  docker,
+  typescript
 
 } from "../assets";
 
@@ -72,10 +75,18 @@ const technologies = [
     name: "JavaScript",
     icon: javascript,
   },
+  {
+    name: "TypeScript",
+    icon: typescript,
+  },
 
   {
     name: "React JS",
     icon: reactjs,
+  },
+  {
+    name: "Next JS",
+    icon: nextjs,
   },
   {
     name: "Redux Toolkit",
@@ -108,6 +119,9 @@ const technologies = [
   {
     name: "java",
     icon: java
+  },{
+    name:"docker",
+    icon: docker,
   },
   {
     name: 'postman',
@@ -167,7 +181,7 @@ const experiences = [
     company_name: "Infomatix Web Technologies LLP",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "Apr 2025 - Nov 2025",
+    date: "Feb 2023 - Jul 2023",
     points: [
       "Worked on multiple production-level web applications, primarily CRM systems and a Hospital ERP, contributing from early UI planning to live deployment.",
       "Led frontend development of 18+ CRM modules using React and Bootstrap, focusing on responsive layouts and performance across devices to support faster feature delivery and overall product stability.",
@@ -182,7 +196,7 @@ const experiences = [
     company_name: "Virtuoso Apps Pvt. Ltd.",
     icon: virtuoso,
     iconBg: "#E6DEDD",
-    date: "Nov 2024 - Feb 2025",
+    date: "Nov 2021 - Dec 2021",
     points: [
       "Contributed to the frontend of a client-facing web platform built with React.js, developing and maintaining multiple screens used in day-to-day workflows.",
       "Built and refactored reusable React components to standardize UI patterns and improve long-term maintainability of the codebase.",
@@ -194,6 +208,7 @@ const experiences = [
 
 
 const projects = [
+
   {
     name: "ChatterBox",
     description:
@@ -224,6 +239,40 @@ const projects = [
     image: chatterbox,
     source_code_link: "https://github.com/shraddhaHS/Chatterbox-Chat-App",
   },
+// {
+//   name: "AI Mock Interview",
+//   description:
+//     "AI Mock Interview is a web platform that simulates real interview experiences using Google’s Gemini LLM. It generates role- and seniority-specific interview questions, allows users to respond via voice and webcam, and maintains session history for structured interview practice.",
+//   tags: [
+//     {
+//       name: "next.js",
+//       color: "blue-text-gradient",
+//     },
+//     {
+//       name: "postgresql",
+//       color: "green-text-gradient",
+//     },
+//     {
+//       name: "drizzle-orm",
+//       color: "pink-text-gradient",
+//     },
+//     {
+//       name: "google-gemini-llm",
+//       color: "orange-text-gradient",
+//     },
+//     {
+//       name: "clerk-auth",
+//       color: "purple-text-gradient",
+//     },
+//     {
+//       name: "speech-to-text",
+//       color: "blue-text-gradient",
+//     },
+//   ],
+//   image: aiMockInterview,
+//   source_code_link: "https://github.com/shraddhaHS/ai-mock-interview",
+// }
+// ,
   {
     
     name: "StudyNotion",
